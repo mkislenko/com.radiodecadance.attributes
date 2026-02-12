@@ -8,6 +8,6 @@
     "name": "Mykhailo Kyslenko"
   },
   "dependencies": {
-    "com.radiodecadance.gameplaytags": "https://github.com/mkislenko/com.radiodecadance.gameplaytags.git"
+    "com.radiodecadance.gameplaytags": "1.0.0"
   }
 }
