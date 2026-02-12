@@ -1,6 +1,6 @@
 {
   "name": "com.radiodecadance.attributes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Radio Decadance Attributes",
   "description": "Modifiable values that can be added/removed during runtime. Support unique attributes by tag that can be affected by global modifiers.",
   "unity": "6000.2",
