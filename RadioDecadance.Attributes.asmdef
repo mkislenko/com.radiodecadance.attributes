@@ -1,0 +1,16 @@
+{
+    "name": "RadioDecadance.Attributes",
+    "rootNamespace": "RadioDecadance",
+    "references": [
+        "GUID:cca780cc27f8c5d4e8fdd0bbabcf0460"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

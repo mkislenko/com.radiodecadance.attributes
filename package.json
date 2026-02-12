@@ -1,0 +1,13 @@
+{
+  "name": "com.radiodecadance.attributes",
+  "version": "1.0.0",
+  "displayName": "Radio Decadance Attributes",
+  "description": "Modifiable values that can be added/removed during runtime. Support unique attributes by tag that can be affected by global modifiers.",
+  "unity": "6000.2",
+  "author": {
+    "name": "Mykhailo Kyslenko"
+  },
+  "dependencies": {
+    "com.radiodecadance.gameplaytags": "1.0.0"
+  }
+}
